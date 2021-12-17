@@ -3,4 +3,4 @@ Hi
 This Project can send Email as HTML and "Attachment".
 
 
-I here if yo need help  :-)
+I'm here if yo need help  :-)
